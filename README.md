@@ -1,6 +1,10 @@
 # CSCW×Kuhn Corpus and Coding Artifact
-This repository contains the corpus construction and system-level coding artifact for:
-**Puzzles to Paradigms: A Survey of Human--Agent Collaboration in Scientific Innovation**
+This repository contains the corpus construction and system-level coding artifact for
+"*Puzzles to Paradigms: A Survey of Human--Agent Collaboration in Scientific Innovation*"
+
+## Status
+The camera-ready artifact is currently being finalized.
+Final release will contain completed artifacts mentioned below.
 
 ## Corpus Summary
 - 127 unique candidate papers
