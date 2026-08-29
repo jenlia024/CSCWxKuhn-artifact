@@ -1,0 +1,8 @@
+exclusion_code,exclusion_reason,title_abstract,full_text,total
+E1_Not_scientific_workflow,Not relevant to scientific/research workflow,41,3,44
+E2_No_agentic_or_collaborative_component,No agentic or collaborative component,0,0,0
+E3_No_concrete_system_or_evaluation,No concrete system/benchmark/method/evaluation,0,6,6
+E4_Human_role_absent_or_incidental,Human involvement absent or incidental,0,15,15
+E5_Background_AI_capability_only,Background/general AI capability only,2,0,2
+E6_Other,Other,0,6,6
+Total,,43,30,73

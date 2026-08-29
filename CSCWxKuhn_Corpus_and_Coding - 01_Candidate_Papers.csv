@@ -1,0 +1,128 @@
+paper_id,title,authors,year,doi_or_url,source_database,screening_stage,included,exclusion_reason,notes,number_of_systems
+P001,"Dolphin: Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback",Yuan et al.,2025,https://aclanthology.org/2025.acl-long.1056/,,full_text,0,E4_Human_role_absent_or_incidental,human role confined/not discussed,
+P002,The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search,Yamada et al.,2025, https://doi.org/10.48550/arXiv.2504.08066,,full_text,1,N/A,,1
+P003,"Towards Scientific Discovery with Generative AI: Progress, Opportunities, and Challenges","Reddy, C. K. and Shojaee, P.",2025,https://doi.org/10.1609/aaai.v39i27.35084,,full_text,0,E3_No_concrete_system_or_evaluation,perspective/position paper,
+P004,AI-Researcher: Autonomous Scientific Innovation,Tang et al.,2025,https://doi.org/10.48550/arXiv.2505.18705,,full_text,1,N/A,,1
+P005,Scientific discovery in the age of artificial intelligence,Wang et al.,2023,https://doi.org/10.1038/s41586-023-06221-2,,full_text,0,E3_No_concrete_system_or_evaluation,perspective/position paper,
+P006,From intention to implementation: automating biomedical research via LLMs,Luo et al.,2025,https://doi.org/10.1007/s11432-024-4485-0,,full_text,1,N/A,,1
+P007,Towards end-to-end automation of AI research,Lu et al.,2026,https://doi.org/10.1038/s41586-026-10265-5,,full_text,1,N/A,,1
+P008,LLM‐Based Agents for Tool Learning: A Survey,Xu et al.,2025,https://doi.org/10.1007/s41019-025-00296-9,,title_abstract,0,E1_Not_scientific_workflow,,
+P009,Automated statistical model discovery with language models,Li et al.,2024,https://dl.acm.org/doi/10.5555/3692070.3693182,,full_text,0,E4_Human_role_absent_or_incidental,human contribution is only input/context supplied before automation,
+P010,CodeScientist: End-to-End Semi-Automated Scientific Discovery with Code-based Experimentation,Jansen et al.,2025,https://aclanthology.org/2025.findings-acl.692/,,full_text,1,N/A,HITL,1
+P011,Autonomous LLM-Driven Research — from Data to Human-Verifiable Research Papers,Ifargan et al.,2024,https://ai.nejm.org/doi/full/10.1056/AIoa2400555,,full_text,1,N/A,human intervention in copilot mode,1
+P012,From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery,Wei et al.,2025,https://doi.org/10.48550/arXiv.2508.14111,,full_text,0,E3_No_concrete_system_or_evaluation,survey,
+P013,Exploring the role of large language models in the scientific method: from hypothesis to discovery,Zhang et al.,2025,https://doi.org/10.1038/s44387-025-00019-5,,full_text,0,E3_No_concrete_system_or_evaluation,perspective/position paper,
+P014,Empowering Biomedical Discovery with AI Agents,Gao et al.,2024,https://doi.org/10.1016/j.cell.2024.09.022,,full_text,0,E3_No_concrete_system_or_evaluation,perspective/position paper,
+P015,Curie: Toward Rigorous and Automated Scientific Experimentation with AI Agents,Kon et al.,2025,https://doi.org/10.48550/arXiv.2502.16069,,full_text,1,N/A,,1
+P016,AI4Research: A Survey of Artificial Intelligence for Scientific Research,Chen et al.,2025,https://doi.org/10.48550/arXiv.2507.01903,,full_text,0,E6_Other,survey,
+P017,Agentic AI and the rise of in silico team science in biomedical research,Li et al.,2026,https://doi.org/10.1038/s41587-026-03035-1,,full_text,0,E3_No_concrete_system_or_evaluation,perspective/position paper,
+P018,A Survey of AI Scientists,Tie et al.,2026,https://doi.org/10.48550/arXiv.2510.23045,,full_text,0,E6_Other,survey,
+P019,CycleResearcher: Improving Automated Research via Automated Review,Weng et al.,2025,https://doi.org/10.48550/arXiv.2411.00816,,full_text,1,N/A,,2
+P020,WebGames: Challenging General-Purpose Web-Browsing AI Agents,Thomas et al.,2025,https://doi.org/10.48550/arXiv.2502.18356,,title_abstract,0,E1_Not_scientific_workflow,,
+P021,LLM-SR: Scientific Equation Discovery via Programming with Large Language Models,Shojaee et al.,2025,https://doi.org/10.48550/arXiv.2404.18400 ,,full_text,1,N/A,,1
+P022,Search-o1: Agentic Search-Enhanced Large Reasoning Models,Li et al.,2025,https://doi.org/10.48550/arXiv.2501.05366,,title_abstract,0,E1_Not_scientific_workflow,,
+P023,ScoreFlow: Mastering LLM Agent Workflows via Score-based Preference Optimization,Wang et al.,2025,https://doi.org/10.48550/arXiv.2502.04306,,title_abstract,0,E5_Background_AI_capability_only,,
+P024,ARMAP: Scaling Autonomous Agents via Automatic Reward Modeling And Planning,Chen et al.,2025,https://doi.org/10.48550/arXiv.2502.12130,,title_abstract,0,E5_Background_AI_capability_only,,
+P025,Mathematical discoveries from program search with large language models,Romera-Paredes et al.,2023,https://doi.org/10.1038/s41586-023-06924-6,,full_text,1,N/A,,1
+P026,Position: Agent Should Invoke External Tools ONLY When Epistemically Necessary,Wang et al.,2026,https://doi.org/10.48550/arXiv.2506.00886,,title_abstract,0,E1_Not_scientific_workflow,,
+P027,PlanGEN: A Multi-Agent Framework for Generating Planning and Reasoning Trajectories for Complex Problem Solving,Parmar et al.,2025,https://doi.org/10.18653/v1/2025.emnlp-main.1042,,title_abstract,0,E1_Not_scientific_workflow,,
+P028,PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex Task Automation on PC,Liu et al.,2025,https://doi.org/10.48550/arXiv.2502.14282,,title_abstract,0,E1_Not_scientific_workflow,,
+P029,OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning,Lu et al.,2026,https://doi.org/10.48550/arXiv.2502.11271,,title_abstract,0,E1_Not_scientific_workflow,,
+P030,AlphaEvolve: A coding agent for scientific and algorithmic discovery,Novikov et al.,2025,https://doi.org/10.48550/arXiv.2506.13131 ,,full_text,1,N/A,,1
+P031,NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification,Zhang et al.,2025,https://arxiv.org/abs/2505.16938v1,,full_text,0,E6_Other,outdated version,
+P032,Multi-Agent Collaboration Mechanisms: A Survey of LLMs,Trang et al.,2025,https://doi.org/10.48550/arXiv.2501.06322,,title_abstract,0,E1_Not_scientific_workflow,,
+P033,MLGym: A New Framework and Benchmark for Advancing AI Research Agents,Nathani et al.,2025,https://doi.org/10.48550/arXiv.2502.14499,,full_text,0,E4_Human_role_absent_or_incidental,human role confined to upstream framework/task design,
+P034,Kosmos: An AI Scientist for Autonomous Discovery,Mitchener et al.,2025,https://doi.org/10.48550/arXiv.2511.02824,,full_text,1,N/A,,1
+P035,Magma: A Foundation Model for Multimodal AI Agents,Yang et al.,2025,https://doi.org/10.48550/arXiv.2502.13130,,title_abstract,0,E1_Not_scientific_workflow,,
+P036,AIGS: Generating Science from AI-Powered Automated Falsification,Liu et al.,2024,https://doi.org/10.48550/arXiv.2411.11910,,full_text,1,N/A,,1
+P037,DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration,Liu et al.,2025,https://doi.org/10.48550/arXiv.2411.15692,,full_text,1,N/A,,1
+P038,Large Language Model based Multi-Agents: A Survey of Progress and Challenges,Guo et al.,2024,https://dl.acm.org/doi/10.24963/ijcai.2024/890,,title_abstract,0,E1_Not_scientific_workflow,,
+P039,DiscoveryWorld: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents,Jansen et al.,2024,https://doi.org/10.52202/079017-0324,,full_text,0,E4_Human_role_absent_or_incidental,human role confined to upstream environment/task design,
+P040,IntellAgent: A Multi-Agent Framework for Evaluating Conversational AI Systems,"Levi, E. and Kadar, I.",2025,https://doi.org/10.48550/arXiv.2501.11067,,title_abstract,0,E1_Not_scientific_workflow,,
+P041,InSTA: Towards Internet-Scale Training For Agents,Trabucco et al.,2025,https://doi.org/10.48550/arXiv.2502.06776,,title_abstract,0,E1_Not_scientific_workflow,,
+P042,Infrastructure for AI Agents,Chan et al.,2025,https://openreview.net/forum?id=Ckh17xN2R2,,title_abstract,0,E1_Not_scientific_workflow,,
+P043,FlowSearch: Advancing deep research with dynamic structured knowledge flow,Hu et al.,2026,https://doi.org/10.18653/v1/2026.acl-long.971,,full_text,0,E1_Not_scientific_workflow,"general purpose ""research""; no human role framing discussed either",
+P044,Robin: A multi-agent system for automating scientific discovery,Ghareeb et al.,2026,https://doi.org/10.1038/s41586-026-10652-y,,full_text,1,N/A,,1
+P045,SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning,"Ghafarollahi, A. and Buehler, M. J.",2024,https://doi.org/10.48550/arXiv.2409.05556,,full_text,0,E4_Human_role_absent_or_incidental,human role confined,
+P046,Democratizing AI scientists using ToolUniverse,Gao et al.,2025,https://doi.org/10.48550/arXiv.2509.23426,,full_text,1,N/A,,1
+P047,TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools,Gao et al.,2025,https://doi.org/10.48550/arXiv.2503.10970,,title_abstract,0,E1_Not_scientific_workflow,,
+P048,From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery,Zheng et al.,2025,https://doi.org/10.18653/v1/2025.emnlp-main.895,,full_text,0,E6_Other,survey,
+P049,DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning,Guo et al.,2025,https://doi.org/10.1038/s41586-025-09422-z,,title_abstract,0,E1_Not_scientific_workflow,,
+P050,CODESIM: Multi-Agent Code Generation and Problem Solving through Simulation-Driven Planning and Debugging,Islam et al.,2025,https://doi.org/10.18653/v1/2025.findings-naacl.285,,title_abstract,0,E1_Not_scientific_workflow,,
+P051,Cocoa: Co-Planning and Co-Execution with AI Agents,Feng et al.,2026,https://dl.acm.org/doi/10.1145/3772318.3791673,,full_text,1,N/A,,1
+P052,Autonomous chemical research with large language models,Boiko et al.,2023,https://doi.org/10.1038/s41586-023-06792-0,,full_text,0,E4_Human_role_absent_or_incidental,no human decision-making was involved,
+P053,Beyond Browsing: API-Based Web Agents,Song et al.,2025,https://doi.org/10.18653/v1/2025.findings-acl.577,,title_abstract,0,E1_Not_scientific_workflow,,
+P054,LIDDIA: Language-based Intelligent Drug Discovery Agent,Averly et al.,2025,https://doi.org/10.18653/v1/2025.emnlp-main.603,,full_text,0,E4_Human_role_absent_or_incidental,"no described human checkpoint, interaction, or judgment during execution",
+P055,AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents,Tang et al.,2025,https://doi.org/10.48550/arXiv.2502.05957,,title_abstract,0,E1_Not_scientific_workflow,,
+P056,Autellix: An Efficient Serving Engine for LLM Agents as General Programs,Luo et al.,2025,https://doi.org/10.48550/arXiv.2502.13965,,title_abstract,0,E1_Not_scientific_workflow,,
+P057,CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data,Alber et al.,2026,https://doi.org/10.1038/s41592-026-03029-6,,full_text,1,N/A,human guided iterations based on feedback and ai self-crtique module,1
+P058,"AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants",Sager et al.,2025,https://doi.org/10.48550/arXiv.2501.16150,,title_abstract,0,E1_Not_scientific_workflow,,
+P059,Agentic Systems: A Guide to Transforming Industries with Vertical AI Agents,"Bousetouane, F.",2025,https://doi.org/10.48550/arXiv.2501.00881,,title_abstract,0,E1_Not_scientific_workflow,,
+P060,Adaptation of Agentic AI,Jiang et al.,2026,https://doi.org/10.48550/arXiv.2512.16301,,full_text,0,E1_Not_scientific_workflow,general LLM agent adaptation methods,
+P061,A Survey on Large Language Model based Autonomous Agents,Wang et al.,2025,https://doi.org/10.1007/s11704-024-40231-1,,title_abstract,0,E1_Not_scientific_workflow,,
+P062,"Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems",Wang et al.,2025,https://doi.org/10.48550/arXiv.2502.11098,,title_abstract,0,E1_Not_scientific_workflow,,
+P063,SciSciGPT: Advancing Human-AI Collaboration in the Science of Science,Shao et al.,2026,https://doi.org/10.1038/s43588-025-00906-6,,full_text,1,N/A,,1
+P064,OmniScientist: Toward a Co-evolving Ecosystem of Human and AI Scientists,Shao et al.,2025,https://doi.org/10.48550/arXiv.2511.16931,,full_text,1,N/A,,1
+P065,Position Paper: Agent AI Towards a Holistic Intelligence,Huang et al.,2024,https://doi.org/10.48550/arXiv.2403.00833,,title_abstract,0,E1_Not_scientific_workflow,,
+P066,Build Your Personalized Research Group: A Multiagent Framework for Continual and Interactive Science Automation,Li et al.,2025,https://doi.org/10.48550/arXiv.2510.15624,,full_text,1,N/A,,1
+P067,Human-artificial interaction in the age of agentic AI: a system-theoretical approach,Borghoff et al.,2025,https://doi.org/10.3389/fhumd.2025.1579166,,title_abstract,0,E1_Not_scientific_workflow,,
+P068,Human-AI Symbiosis: A Survey of Current Approaches,"Zahedi, Z. and Kambhampati, S.",2021,https://doi.org/10.48550/arXiv.2103.09990,,title_abstract,0,E1_Not_scientific_workflow,,
+P069,Human-AI Collaboration: Trade-offs Between Performance and Preferences,Mayer et al.,2026,https://doi.org/10.1186/s41235-026-00713-1,,title_abstract,0,E1_Not_scientific_workflow,,
+P070,Human-AI collaboration is not very collaborative yet: A taxonomy of interaction patterns in AI-assisted decision making from a systematic review,Gomez et al.,2025,https://doi.org/10.3389/fcomp.2024.1521066,,title_abstract,0,E1_Not_scientific_workflow,,
+P071,Guidelines for Human-AI Interaction,Amershi et al.,2019,https://dl.acm.org/doi/10.1145/3290605.3300233,,title_abstract,0,E1_Not_scientific_workflow,,
+P072,Fostering Collective Intelligence in Human–AI Collaboration: Laying the Groundwork for COHUMAIN,Gupta et al.,2025,https://doi.org/10.1111/tops.12679,,title_abstract,0,E1_Not_scientific_workflow,,
+P073,Establishing Human Observer Criterion in Evaluating Artificial Social Intelligence Agents in a Search and Rescue Task,Huang et al.,2025,https://doi.org/10.1111/tops.12648,,title_abstract,0,E1_Not_scientific_workflow,,
+P074,Do We Collaborate With What We Design?,Evans et al.,2023,https://doi.org/10.1111/tops.12682,,title_abstract,0,E1_Not_scientific_workflow,,
+P075,Designing the Intelligent Organization: Six Principles for Human-AI Collaboration,"Kolbjørnsrud, V.",2023,https://doi.org/10.1177/00081256231211020,,title_abstract,0,E1_Not_scientific_workflow,,
+P076,CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation,Huq et al.,2025,https://doi.org/10.18653/v1/2025.naacl-demo.17,,title_abstract,0,E1_Not_scientific_workflow,,
+P077,"Collaborating with AI Agents: A Field Experiment on Teamwork, Productivity, and Performance","Ju, H. and Aral, S.",2026,https://doi.org/10.48550/arXiv.2503.18238,,title_abstract,0,E1_Not_scientific_workflow,,
+P078,COHUMAIN: Building the Socio-Cognitive Architecture of Collective Human–Machine Intelligence,Gonzalez et al.,2023,https://doi.org/10.1111/tops.12673,,title_abstract,0,E1_Not_scientific_workflow,,
+P079,A Survey on Human-AI Collaboration with Large Foundation Models,Vats et al.,2026,https://doi.org/10.1145/3841472,,title_abstract,0,E1_Not_scientific_workflow,,
+P080,A Survey of Human-AI Collaboration for Scientific Discovery,Shi et al.,2026,https://doi.org/10.36227/techrxiv.176823034.44078313/v2,,full_text,0,E6_Other,survey,
+P081,Multi-Agents are Social Groups: Investigating Social Influence of Multiple Agents in Human-Agent Interactions,Song et al.,2025,https://doi.org/10.1145/3757633,,title_abstract,0,E1_Not_scientific_workflow,,
+P082,Exploring Collaboration Patterns and Strategies in Human-AI Co-creation through the Lens of Agency: A Scoping Review of the Top-tier HCI Literature,Zhang et al.,2025,https://doi.org/10.1145/3757594,,title_abstract,0,E1_Not_scientific_workflow,,
+P083,Empirically Understanding the Potential Impacts and Process of Social Influence in Human-AI Teams,Flathmann et al.,2024,https://doi.org/10.1145/3637326,,title_abstract,0,E1_Not_scientific_workflow,,
+P084,Advancing Biomolecular Understanding and Design Following Human Instructions,Zhuang et al.,2025,https://doi.org/10.1038/s42256-025-01064-0,,full_text,1,N/A,,2
+P085,A foundation model for human-AI collaboration in medical literature mining,Wang et al.,2025,https://doi.org/10.1038/s41467-025-62058-5,,full_text,1,N/A,,1
+P086,MLR-Copilot: Autonomous Machine Learning Research based on Large Language Models Agents,Li et al.,2025,https://doi.org/10.48550/arXiv.2408.14033,,full_text,1,N/A,iterative human feedback,1
+P087,Agent Laboratory: Using LLM Agents as Research Assistants,Schmidgall et al.,2025,https://doi.org/10.18653/v1/2025.findings-emnlp.320,,full_text,1,N/A,,1
+P088,DrugAssist: A Large Language Model for Molecule Optimization,Ye et al.,2023,https://doi.org/10.48550/arXiv.2401.10334,,full_text,1,N/A,,1
+P089,ChatGPT-powered Conversational Drug Editing Using Retrieval and Domain Feedback,Liu et al.,2023,https://openreview.net/forum?id=HhqJtragcp#all,,full_text,1,N/A,,1
+P090,Expert-Guided LLM Reasoning for Battery Discovery: From AI-Driven Hypothesis to Synthesis and Characterization,Liu et al.,2025,https://doi.org/10.48550/arXiv.2507.16110,,full_text,1,N/A,human provides expert judgment and oversight at critical points (prompt design and wet-lab verification),1
+P091,LabOS: The AI-XR Co-Scientist That Sees and Works With Humans,Cong et al.,2025,https://doi.org/10.48550/arXiv.2510.14861,,full_text,1,N/A,,1
+P092,MetaScientist: A Human-AI Synergistic Framework for Automated Mechanical Metamaterial Design,Qi et al.,2025,https://doi.org/10.18653/v1/2025.naacl-demo.34,,full_text,1,N/A,HITL; mechanical metamaterial designs,1
+P093,Accelerating scientific discovery with Co-Scientist,Gottweis et al.,2026,https://doi.org/10.1038/s41586-026-10644-y,,full_text,1,N/A,,1
+P094,Evaluating and Enhancing Large Language Models for Novelty Assessment in Scholarly Publications,Lin et al.,2025,https://doi.org/10.18653/v1/2025.aisd-main.5,,full_text,1,N/A,,2
+P095,Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human Expertise and Large Language Models,Wu et al.,2025,https://doi.org/10.1002/asi.70005,,full_text,1,N/A,,2
+P096,Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System,Su et al.,2025,https://doi.org/10.18653/v1/2025.acl-long.1368,,full_text,1,N/A,,1
+P097,Hypothesis Generation with Large Language Models,Zhou et al.,2024,https://doi.org/10.18653/v1/2024.nlp4science-1.10,,full_text,0,E4_Human_role_absent_or_incidental,no human role discussed,
+P098,Interesting Scientific Idea Generation using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders,"Gu, X. and Krenn, M.",2025,https://doi.org/10.48550/arXiv.2405.17044,,full_text,1,N/A,,1
+P099,SciMON: Scientific Inspiration Machines Optimized for Novelty,Wang et al.,2024,https://doi.org/10.18653/v1/2024.acl-long.18,,full_text,1,N/A,,1
+P100,ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models,Baek et al.,2025,https://doi.org/10.48550/arXiv.2404.07738,,full_text,1,N/A,,1
+P101,Can LLMs generate novel research ideas? A large-scale human study with 100+ NLP researchers,Si et al.,2025,https://openreview.net/forum?id=M23dTGWCZy,,full_text,0,E6_Other,evaluation-focused study; ideation agent used primarily as an experimental setup,
+P102,Scideator: Human-LLM Compound System for Scientific Ideation through Facet Recombination and Novelty Evaluation,Radensky et al.,2026,https://doi.org/10.1145/3786335.3813161,,full_text,1,N/A,,1
+P103,Toward reliable scientific hypothesis generation: evaluating truthfulness and hallucination in large language models,Xiong et al.,2025,https://doi.org/10.24963/ijcai.2025/873,,full_text,1,N/A,,2
+P104,IdeaBench: Benchmarking Large Language Models for Research Idea Generation,Guo et al.,2025,https://doi.org/10.1145/3711896.3737419,,full_text,0,E4_Human_role_absent_or_incidental,,
+P105,RbtAct: Rebuttal as Supervision for Actionable Review Feedback Generation,Wu et al.,2026,https://doi.org/10.48550/arXiv.2603.09723,,full_text,1,N/A,,1
+P106,APRES: An Agentic Paper Revision and Evaluation System,Zhao et al.,2026,https://doi.org/10.48550/arXiv.2603.03142,,full_text,1,N/A,,1
+P107,ScholarPeer: A Context-Aware Multi-Agent Framework for Automated Peer Review,Goyal et al.,2026,https://doi.org/10.48550/arXiv.2601.22638,,full_text,1,N/A,,1
+P108,Bridging Social Psychology and LLM Reasoning: Conflict-Aware Meta-Review Generation via Cognitive Alignment,Chen et al.,2025,https://doi.org/10.48550/arXiv.2503.13879,,full_text,1,N/A,,1
+P109,DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process,Zhu et al.,2025,https://doi.org/10.18653/v1/2025.acl-long.1420,,full_text,1,N/A,,1
+P110,TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review,Chang et al.,2025,https://doi.org/10.18653/v1/2025.emnlp-main.790,,full_text,1,N/A,,1
+P111,AgentReview: Exploring Peer Review Dynamics with LLM Agents,Jin et al.,2024,https://doi.org/10.18653/v1/2024.emnlp-main.70,,full_text,1,N/A,,1
+P112,LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing,Du et al.,2024,https://doi.org/10.18653/v1/2024.emnlp-main.292,,full_text,1,N/A,,1
+P113,When combinations of humans and AI are useful: A systematic review and meta-analysis,Vaccaro et al.,2024,https://doi.org/10.1038/s41562-024-02024-1,,title_abstract,0,E1_Not_scientific_workflow,,
+P114,The AI Review Lottery: Widespread AI-Assisted Peer Reviews Boost Paper Scores and Acceptance Rates,Russo et al.,2025,https://doi.org/10.1145/3757667,,full_text,0,E1_Not_scientific_workflow,"empirical study analyzing the sociotechnical impact of AI-assisted peer review on conference outcomes (score distributions, acceptance rates)",
+P115,Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews,Liang et al.,2024,https://dl.acm.org/doi/10.5555/3692070.3693262,,full_text,1,N/A,,1
+P116,AAAR-1.0: Assessing AI’s Potential to Assist Research,Lou et al.,2025,https://openreview.net/forum?id=RHAWcjIyl2&noteId=AN0O5QG2eL,,full_text,0,E4_Human_role_absent_or_incidental,no described human role,
+P117,RE-Bench: Evaluating Frontier AI R&D Capabilities of Language Model Agents against Human Experts,Wijk et al.,2025,https://openreview.net/forum?id=3rB0bVU6z6&noteId=lOCHc0u2a6,,full_text,0,E4_Human_role_absent_or_incidental,no described human role,
+P118,DiscoveryBench: Towards Data-Driven Discovery with Large Language Models,Majumder et al.,2024,https://doi.org/10.48550/arXiv.2407.01725,,full_text,0,E4_Human_role_absent_or_incidental,no described human role,
+P119,ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery,Chen et al.,2025,https://openreview.net/forum?id=6z4YKr0GK6,,full_text,0,E4_Human_role_absent_or_incidental,no described human role,
+P120,Evaluating LLMs’ Divergent Thinking Capabilities for Scientific Idea Generation with Minimal Context,Ruan et al.,2026,https://doi.org/10.1038/s41467-026-70245-1,,full_text,0,E4_Human_role_absent_or_incidental,no described human role; uses LLMs to judge LLMs,
+P121,Large language models surpass human experts in predicting neuroscience results,Luo et al.,2024,https://doi.org/10.1038/s41562-024-02046-9,,full_text,0,E4_Human_role_absent_or_incidental,comparison study against humans; not an implemented human-agent collaborative role,
+P122,MLZero: A Multi-Agent System for End-to-end Machine Learning Automation,Fang et al.,2025,https://openreview.net/forum?id=9t7gfYUp0U,,full_text,1,N/A,,1
+P123,PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing,Song et al.,2026,https://openreview.net/forum?id=3PSApLjKex,,full_text,1,N/A,,1
+P124,HypER: Literature-grounded Hypothesis Generation and Distillation with Provenance,Vasu et al.,2025,https://doi.org/10.18653/v1/2025.emnlp-main.1292,,full_text,1,N/A,,1
+P125,MoRI: Learning Motivation-Grounded Reasoning for Scientific Ideation in Large Language Models,Gu et al.,2026,https://doi.org/10.18653/v1/2026.acl-long.1609,,full_text,1,N/A,,1
+P126,InternAgent: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification,Zhang et al.,2025,https://doi.org/10.48550/arXiv.2505.16938,,full_text,1,N/A,,1
+P127,DeepScientist: Advancing Frontier-Pushing Scientific Findings Progressively,Weng et al.,2026,https://openreview.net/forum?id=cZFgsLq8Gs,,full_text,1,N/A,,1
