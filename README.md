@@ -1,8 +1,15 @@
 # CSCW×Kuhn Corpus and Coding Artifact
 This repository contains the corpus construction and system-level coding artifact for
-"*Puzzles to Paradigms: A Survey of Human--Agent Collaboration in Scientific Innovation*"
+"*Puzzles to Paradigms: A Survey of Human–Agent Collaboration in Scientific Innovation*"
+- **Authors:** Zhenni Liang, Haoxuan Zhang, Haihua Chen, Ting Xiao, Junhua Ding, Yang Zhang
+- **GitHub Repo Maintained By:** Zhenni Liang
+- **Contact Email:** zhenniliang@my.unt.edu
+- **Paper link:** https://openreview.net/forum?id=EespSiQLqD#discussion
 
 ## Status
+Accepted to **EMNLP 2026 Findings**.
+
+
 The camera-ready artifact is currently being finalized.
 Final release will contain completed artifacts mentioned below.
 
